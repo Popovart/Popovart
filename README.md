@@ -1,7 +1,7 @@
-## Hi there 
+## Hi there! 
 
 # 💫 About Me:
-👋 Hi there! I'm a passionate Android developer from Prague. 📱
+👋 I'm a passionate Android developer from Prague. 📱
 
 🎓 Currently, I am studying at the Czech Technical University in Prague and am also a student at 42Prague, where I develop projects in pure C while adhering to strict coding guidelines.
 
