@@ -5,7 +5,7 @@
 
 🎓 Currently, I am studying at the Czech Technical University in Prague and am also a student at 42Prague, where I develop projects in pure C while adhering to strict coding guidelines.
 
-🚀 I'm diving deep into the world of Android development 💡🛠, exploring technologies that enable me to build comprehensive, multiplatform applications from scratch. <br>
+🚀 I'm diving deep into the world of Android development 💡🛠, exploring technologies that enable me to build comprehensive android applications from scratch. <br>
 
 💻 I also have experience in front-end web development 🌐 and have freelanced, working with various technologies and frameworks to build dynamic websites and applications.
 
